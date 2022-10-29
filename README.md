@@ -3,7 +3,7 @@
 <b>
 
 <p align="center">
-  <img alt="mysticker" src="https://github.com/danielfelix45/app-sticker_react-native/blob/master/src/assets/mySticker.png" width="100%">
+  <img alt="mysticker" src="https://github.com/danielfelix45/app-sticker_react-native/blob/master/src/assets/mySticker.png" width="100%" height="500px>
 </p>
 
 <b>

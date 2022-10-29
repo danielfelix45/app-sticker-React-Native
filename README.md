@@ -3,7 +3,7 @@
 <b>
 
 <p align="center">
-  <img alt="rocketpay" src=".github.com/danielfelix45/app-sticker_react-native/blob/master/src/assets/mySticker.png" width="100%">
+  <img alt="mysticker" src=".github.com/mySticker.png" width="100%">
 </p>
 
 <b>
